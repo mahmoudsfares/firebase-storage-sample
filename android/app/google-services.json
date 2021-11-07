@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208392592328",
+    "project_id": "flutterfirebasestorage-fedaf",
+    "storage_bucket": "flutterfirebasestorage-fedaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208392592328:android:588adf7ce4b799e0a13efd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208392592328-n7kdaqr7gk88uf9ffqcnid63rqc1lqsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdez4H6Cbn4AmQFpyvTFYyqk83m9dZSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208392592328-n7kdaqr7gk88uf9ffqcnid63rqc1lqsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
