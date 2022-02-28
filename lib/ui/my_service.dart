@@ -5,7 +5,7 @@ import 'package:firebase_storage/firebase_storage.dart';
 class MyService {
 
   Future selectFile() async {
-    final result = await FilePicker.platform.pickFiles();
+    final result = await FilePicker.platform.pickFiles(type: FileType.media);
     if (result == null) return;
     final path = result.files.single.path!;
     return File(path);
