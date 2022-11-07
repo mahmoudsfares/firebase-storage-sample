@@ -17,6 +17,7 @@ dependencies:
   get: ^4.3.8
   cupertino_icons: ^1.0.2
   fluttertoast: ^8.0.8
+  barcode_scanner_kit: ^1.0.1
 
 dev_dependencies:
   flutter_test:
